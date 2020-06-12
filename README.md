@@ -1,5 +1,6 @@
-# cj-app
-React SPA
+# code judge-app
+## React SPA
+### Movie Cards Frontend Question
 
 ![alt text](https://github.com/lpawa/question-98-react-16.9-npm-in-docker/blob/master/public/screenshot.png?raw=true)
 
