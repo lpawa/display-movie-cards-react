@@ -1,6 +1,9 @@
 # cj-app
 React SPA
 
+![alt text](https://github.com/lpawa/question-98-react-16.9-npm-in-docker/blob/master/public/screenshot.png?raw=true)
+
+
 IMPORTANT NOTES (In case Backend Service API Integration is required):
 
     1. The backend endpoint host url can be accessed using "process.env.REACT_APP_API_URL" property. An example is shown in index.js.
