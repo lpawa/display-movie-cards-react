@@ -37,7 +37,7 @@
 .card-title {
   font-size: 18px;
   color: black;
-  font-family: verdana, sans;
+  font-family:  Helvetica, Arial, Verdana, Tahoma, sans-serif;
 }
 .card-text {
   color: grey;
